@@ -1,6 +1,6 @@
 # DSEA-Blog-website
 I created this Blogging webiste for the Data Science EasT Africa
-##Key functionalities
+#Key functionalities
 1)Users can Sign Up
 2)User can Login
 3)Users can reset their passwords by receiving an email
